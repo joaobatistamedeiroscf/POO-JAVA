@@ -20,7 +20,7 @@ Atualmente, o repositório contém a seguinte prática:
 ## 🛠 Tecnologias Utilizadas
 
 - Java (versão 11 ou superior recomendada)
-- IDEs como IntelliJ IDEA ou Eclipse (opcional)
+- IDEs como IntelliJ IDEA e Visual Studio Code(Vs code) (opcional)
 - Git para controle de versão
 
 ## 🎯 Objetivos
@@ -37,8 +37,6 @@ Se desejar contribuir com sugestões, melhorias ou práticas adicionais:
 3. Faça o commit das suas alterações (`git commit -m 'Adiciona nova prática'`)
 4. Push para a branch (`git push origin nova-pratica`)
 5. Abra um Pull Request
-
-
 
 
 ---

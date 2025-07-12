@@ -8,6 +8,8 @@ import java.util.Scanner ;
 public class pratica3 {
 
     public static void main(String[] args) {
+      
+      try {
         int tamanho;
 
         Scanner scanner = new Scanner(System.in);
@@ -27,6 +29,15 @@ public class pratica3 {
         {
             System.out.println(vetor[i]);
         }
+    }catch (ArrayIndexOutOfBoundsException e) {
+        System.out.println("Índice inválido! Por favor, informe um índice entre 0 e ");
+      } catch (Exception e) {
+        System.out.println("Ocorreu um erro: " + e.getMessage());
+      } finally {
+        System.out.println("Programa finalizado.");
+
+      }
+    
     }
 
 }

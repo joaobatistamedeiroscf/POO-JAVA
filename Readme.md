@@ -8,6 +8,7 @@ Este repositório tem como objetivo reunir práticas e exercícios de **Programa
 - ✅ Interfaces  
 - ✅ Classes e Objetos  
 - ✅ Classes Abstratas  
+- ✅ Tratamento de Er
 
 ## 📁 Estrutura do Repositório
 
